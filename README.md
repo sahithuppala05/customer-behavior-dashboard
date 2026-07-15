@@ -3,13 +3,14 @@
 This project is an end-to-end retail analytics solution that combines **Python, MySQL, and Power BI** to analyze customer purchasing behavior and uncover actionable business insights. The solution transforms raw transactional data into an interactive executive dashboard that helps businesses optimize marketing strategies, improve customer retention, and maximize revenue.
 
 **📊 Power BI Dashboard**  
-*Add your Power BI report link here*
+*https://app.powerbi.com/links/mW91sS8T-L?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare*
 
 **📂 GitHub Repository**  
-*Add your GitHub repository link here*
+*https://github.com/sahithuppala05/customer-behavior-dashboard.git*
 
 **🖼️ Dashboard Preview**  
-*Add dashboard screenshot here*
+<img width="1127" height="637" alt="Dashboard" src="https://github.com/user-attachments/assets/b28978e5-b5be-47c4-85f4-cf29e180c58f" />
+
 
 ---
 
@@ -221,12 +222,6 @@ Developed optimized SQL queries to answer executive business questions including
 - DAX Measures
 - Business Storytelling
 - End-to-End Analytics Pipeline Development
-
----
-
-## 📷 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
 
 ---
 
