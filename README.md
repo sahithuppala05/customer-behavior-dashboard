@@ -9,7 +9,8 @@ This project is an end-to-end retail analytics solution that combines **Python, 
 *https://github.com/sahithuppala05/customer-behavior-dashboard.git*
 
 **🖼️ Dashboard Preview**  
-<img width="1127" height="637" alt="Dashboard" src="https://github.com/user-attachments/assets/b28978e5-b5be-47c4-85f4-cf29e180c58f" />
+<img width="1261" height="713" alt="Screenshot 2026-07-15 222345" src="https://github.com/user-attachments/assets/6c44f3fd-287a-45ed-b77f-f8dd0e8fd9a5" />
+
 
 
 ---
