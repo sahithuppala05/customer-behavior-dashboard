@@ -114,14 +114,12 @@ The Clothing category contributes the highest sales volume and revenue, making i
 
 - Python
 - Pandas
-- NumPy
 - Jupyter Notebook
 
 ### Database
 
 - MySQL
 - SQLAlchemy
-- PyMySQL
 
 ### Business Intelligence
 
